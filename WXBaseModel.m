@@ -17,6 +17,11 @@
 	return self;
 }
 
+
+
+
+
+
 -(NSDictionary*)attributeMapDictionary{
 	return nil;
 }
